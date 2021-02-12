@@ -1,0 +1,16 @@
+int a,b,c;
+void P()
+{
+c=a+b;
+}
+void main()
+{
+a=10;
+scanf(b);
+while(b)
+{
+P();
+printf(2*c);
+scanf(b);
+}
+}

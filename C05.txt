@@ -1,0 +1,22 @@
+int a,b;
+void A()
+{
+scanf(a);
+if(a)
+{
+b=10;
+}
+else
+{
+b=20;
+}
+}
+int B()
+{
+return a+b;
+}
+void main()
+{
+A();
+printf(B());
+}

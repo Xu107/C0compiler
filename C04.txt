@@ -1,0 +1,9 @@
+int A()
+{int a;
+scanf(a);
+return a;
+}
+void main()
+{
+printf(A());
+}

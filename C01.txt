@@ -1,0 +1,26 @@
+int a;
+void A()
+{
+if(a)
+{
+a=10;
+}
+else
+{
+a=20;
+}
+}
+void B()
+{
+int c;
+c=2;
+return a*c;
+}
+void main()
+{
+int d,e;
+d=10;
+scanf(a);
+A();
+printf(B());
+}

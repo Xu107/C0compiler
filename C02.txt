@@ -1,0 +1,13 @@
+int sum;
+void main()
+{
+int n;
+sum=0;
+scanf(n);
+while(n)
+{
+sum=sum+n;
+n=n-1;
+}
+printf(sum);
+}
